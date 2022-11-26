@@ -1,4 +1,4 @@
-# PT2022_30228_Bode_Andreea_Nicoleta_Assignment_1
+# Polynomial Calculator
 
 
 
